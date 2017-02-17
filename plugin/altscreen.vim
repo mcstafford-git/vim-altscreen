@@ -3,6 +3,8 @@ if exists("g:loaded_altscreen") || &cp
   finish
 endif
 let g:loaded_altscreen = 1
+let g:altscreen_save_t_ti = 0
+let g:altscreen_save_t_te = 0
 
 
 "----------------
